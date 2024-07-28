@@ -1,0 +1,48 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-07-28 20:18+0500\n"
+"PO-Revision-Date: 2024-07-28 20:18+0500\n"
+"Last-Translator: \n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: dialogs/main/getters.py:19
+msgid ""
+"<b>Виртуальный угадыватель мыслей</b>\n"
+"\n"
+"Это очень просто, но забавно!\n"
+"\n"
+"1. Задумайте любое двухзначное число до 50 (например 44)\n"
+"2. Вычтите из него составляющие его цифры (Например 44 - 4 - 4 = 36)\n"
+"3. Найдите это число в таблице и символ , которому оно соответствует.\n"
+"4. <b>Вообразите мысленно себе этот значок и щелкните по кнопке ниже.</b>"
+" В нем появится этот значок."
+msgstr ""
+"<b>Virtual fikr o’quvchi</b> \n"
+"\n"
+"Bu juda oddiy, lekin qiziqarli! \n"
+"\n"
+"1. Ikki xonali 50 gacha bo‘lgan har qanday sonni o‘ylab ko‘ring (masalan,"
+" 44) \n"
+"2. Undan uning tashkil etuvchi raqamlarini ayiring (masalan, 44 - 4 - 4 ="
+" 36) \n"
+"3. Jadvaldan ushbu raqamni va unga tegishli mos kelgan belgini toping. \n"
+"4. <b>Ushbu belgini tasavvuringizda tasavvur qiling va quyidagi tugmani "
+"bosing.</b> Bu belgi u yerda paydo bo'ladi."
+
+#: dialogs/main/getters.py:27
+msgid "Щелкните сюда!"
+msgstr "Bu yerni bosing!"
+

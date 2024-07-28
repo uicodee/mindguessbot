@@ -15,6 +15,7 @@ asyncpg = "^0.29.0"
 greenlet = "^3.0.3"
 alembic = "^1.13.1"
 aiogram-dialog = "^2.1.0"
+babel = "^2.15.0"
 
 
 [build-system]

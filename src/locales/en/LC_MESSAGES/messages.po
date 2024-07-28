@@ -1,0 +1,48 @@
+# English translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-07-28 20:18+0500\n"
+"PO-Revision-Date: 2024-07-28 20:18+0500\n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.15.0\n"
+
+#: dialogs/main/getters.py:19
+msgid ""
+"<b>Виртуальный угадыватель мыслей</b>\n"
+"\n"
+"Это очень просто, но забавно!\n"
+"\n"
+"1. Задумайте любое двухзначное число до 50 (например 44)\n"
+"2. Вычтите из него составляющие его цифры (Например 44 - 4 - 4 = 36)\n"
+"3. Найдите это число в таблице и символ , которому оно соответствует.\n"
+"4. <b>Вообразите мысленно себе этот значок и щелкните по кнопке ниже.</b>"
+" В нем появится этот значок."
+msgstr ""
+"<b>Virtual Thought Guess</b>\n"
+"\n"
+"It's very simple, but fun! \n"
+"\n"
+"1. Think of any two-digit number up to 50 (for example 44) \n"
+"2. Subtract its constituent digits from it (For example 44 - 4 - 4 = 36)"
+" \n"
+"3. Find this number in the table and the symbol to which it corresponds."
+" \n"
+"4. <b>Visualize this icon in your mind and click the button below.</b> "
+"This icon will appear there."
+
+#: dialogs/main/getters.py:27
+msgid "Щелкните сюда!"
+msgstr "Click here!"
+
