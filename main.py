@@ -4,7 +4,7 @@ import logging
 from aiogram import Dispatcher, Bot
 from aiogram.client.default import DefaultBotProperties
 
-from src import middlewares, handlers
+from src import middlewares, handlers, dialogs
 from config import load_config
 from src.infrastructure.database import create_pool, make_connection_string
 
@@ -18,6 +18,7 @@ async def main() -> None:
     pool = create_pool(url=make_connection_string(config))
     middlewares.setup(dp, pool=pool)
     handlers.setup(dp)
+    dialogs.setup(dp)
     await dp.start_polling(bot)
 
 
