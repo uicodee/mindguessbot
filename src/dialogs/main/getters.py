@@ -4,7 +4,7 @@ from aiogram.fsm.context import FSMContext
 
 
 async def get_symbols(state: FSMContext, **kwargs):
-    symbols = ["😂️️", "😁", "🥰", "🥳", "🥵", "🤢", "🤡", "🎁", "🔒", "❇️", "🎲", "🎯", "🍎", "🌈", "🐶", "🧠"]
+    symbols = ["😂️️", "😁", "🥰", "🥳", "🥵", "🤢", "🤡", "🌚", "👋", "💩", "🎲", "🎯", "⚡️", "🌈", "🐶", "🙈"]
     random_symbol = random.choice(symbols)
     symbols_table = []
     table = {i + 1: random.choice(symbols) for i in range(100)}
